@@ -1,7 +1,8 @@
 # work-list
-Peking University Information Security Laboratory papers and code highlights.
+Papers and code highlights from Communication and Information Security Laboratory, Peking University.
 
 ## 2024
 
-\[MICCAI 2024\] FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation
+*\[MICCAI 2024\]* FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation
+
 [ArXiv](https://arxiv.org/abs/2403.05408) [Github Code](https://github.com/LIU-YUXI/FedFMS)
